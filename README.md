@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dasari Tarun Kumar</h1>
 
 <h3 align="center">
-🚀 Google Gemini Student Ambassador 2026 | Aspiring Data Engineer | Machine Learning Enthusiast
+🚀 Google Gemini Student Ambassador 2026 | Aspiring Software Engineer | Machine Learning Enthusiast | Fullstack Developer
 </h3>
 
 <p align="center">
